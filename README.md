@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Nikolay
-- 👀 I’m interested in game development, DIY electronics, and artificial intelligence
-- 🌱 I’m currently learning Kotlin, revamping data structures and algorithms in GDScript, and basics of electronics
-- 💞️ I’m looking to collaborate on projects related to robots, games and procedural generation
-- 📫 You can reach me on Twitter [@mikolasan](https://twitter.com/mikolasan) where once a week I write threads about gamedev and development process
-- ☕ Enjoy coding today!
+## 👋 Hi, I’m Nikolay
 
-<!---
-mikolasan/mikolasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 I'm a scientist. I can read, talk and listen endlessly about game development, DIY electronics, and artificial intelligence. And many people could find me boring because I don't talk about news or politics because I find it boring.
+
+💎 I like [C++](https://cpp-by-example.netlify.app/), but can also tolerate Rust, Python, Kotlin, and Lua
+
+🧲 I enjoy learning the basics of electronics on my own and slowly designing PCBs
+
+🌌 As a mathematician and a curious person, I would never stop asking why, even about core definitions (this month I started with Lebesgue measure)
+
+⚔️ Currently I work on a [3D game in Godot](https://mastodon.social/deck/@mikolasan/112810719012269009), an NPC simulator about a merchant who buys loot and sell potions to your usual RPG adventurers.
+
+🙌 You can find me on Mastodon [@mikolasan](https://mastodon.social/@mikolasan) where I share thoughts about my robot development and cloud photos
+
+☕ Enjoy coding today!
