@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Nikolay
 
+<a href="https://mastodon.social/@stalwartlabs"><img src="https://img.shields.io/mastodon/follow/109254403348566670?style=for-the-badge&logo=mastodon&color=%236364ff&label=Follow%20on%20Mastodon" alt="Mastodon"></a>
+
 🔬 I'm a scientist. I can read, talk and listen endlessly about game development, DIY electronics, and artificial intelligence. And many people could find me boring because I don't talk about news or politics because I find it boring.
 
 💎 I like [C++](https://cpp-by-example.netlify.app/), but can also tolerate Rust, Python, Kotlin, and Lua
