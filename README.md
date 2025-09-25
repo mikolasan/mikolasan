@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nikolay
 
-<a href="https://mastodon.social/@mikolasan"><img src="https://img.shields.io/mastodon/follow/109254403348566670?style=for-the-badge&logo=mastodon&color=%236364ff&label=Follow%20on%20Mastodon" alt="Mastodon"></a>
+<a href="https://cupoftea.social/@mikolasan"><img src="https://img.shields.io/mastodon/follow/115263377150009544?style=for-the-badge&domain=cupoftea.social&logo=mastodon&color=%236364ff&label=Follow%20on%20Mastodon" alt="Mastodon"></a>
 
 🔬 I'm a scientist. I can read, talk and listen endlessly about game development, DIY electronics, and artificial intelligence. And many people could find me boring because I don't talk about news or politics because I find it boring.
 
@@ -12,6 +12,6 @@
 
 ⚔️ Currently I work on a [3D game in Godot](https://mastodon.social/deck/@mikolasan/112810719012269009), an NPC simulator about a merchant who buys loot and sell potions to your usual RPG adventurers.
 
-🙌 You can find me on Mastodon [@mikolasan](https://mastodon.social/@mikolasan) where I share thoughts about my robot development and cloud photos
+🙌 You can find me on Mastodon [@mikolasan](https://cupoftea.social/@mikolasan) where I share thoughts about my robot development and cloud photos
 
 ☕ Enjoy coding today!
